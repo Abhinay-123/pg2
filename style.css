@@ -1,0 +1,112 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #BDC3C7;
+  margin-bottom: -200px;
+  }
+  h1, h2, h3, h4, h5, h6,i,a {
+    font-family: "Montserrat-Bold";
+  }
+  .max{
+  margin-left: 50px;
+
+  }
+  .bas{
+    padding-left: 190px;
+    padding-right: 190px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+
+  }
+  .left{
+background-color:#E0E0E0;
+position: absolute;
+  }
+  .right{
+background-color: #FDFEFE;
+height: 780px;
+  }
+  .contain{
+    background-color: #FDFEFE;
+    margin-top: 10px;
+
+  }
+  #scroll{
+
+    height: 650px;
+    width: 100%;
+    overflow-y:scroll;
+  }
+
+  i{
+    font-size: 15px;
+  }
+  p{
+    font-size: 12px;
+  }
+  label{
+    border-style: solid;
+    border-radius: 10px 25px 10px 25px;
+    border-width: 1px;
+    border-color:#82777F;
+padding: 5px 15px 5px 15px;
+
+  }
+  input[type="massage"]{
+    border-style: solid;
+    border-radius: 25px 25px 25px 25px;
+    border-width: 1px;
+    border-color:#82777F;
+
+    padding: 5px 0 5px 15px;
+    margin-top: 50px;
+  }
+  input[type="text"]{
+    border-radius: 25px 25px 25px 25px;
+    border-width: 1px;
+    border-color:#82777F;
+  }
+  input[type="search"]{
+    border-style: solid;
+    /* border-radius: 25px 25px 25px 25px; */
+    border-width: 1px;
+    border-color:#82777F;
+  }
+  .image{
+    width: 45px;
+    height: 45px;
+  }
+  .talk{
+    margin-top: 15px;
+  }
+.baat{
+  overflow-y: scroll;
+}
+.navbar{
+background-color: #0C90BF;
+padding-top: 10px;
+height: 70px;
+padding-top:10px;
+}
+.navbar-brand{
+margin-left: 200px;
+
+}
+.navbar-nav{
+margin-right: 150px;
+}
+.bi{
+  color:#FDFEFE;
+
+}
+.circle{
+  width: 60px;
+  height: 60px;
+margin-right: 10px;
+margin-left: -10px;
+}
+footer{
+  padding-top: 30px;
+  background-color:#FDFEFE;
+  padding-bottom: 10px;
+}
